@@ -94,7 +94,7 @@ Pod::Spec.new do |s|
   s.source_files  = "WLTabBar", "WLTabBar/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
-  s.public_header_files = "WLTabBar/WLTabBar.h","WLTabBar/**/*.h"
+  s.public_header_files = "WLTabBar/WLTabBarHead.h","WLTabBar/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

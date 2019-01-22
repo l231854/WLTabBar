@@ -35,7 +35,7 @@
 		9BEB6B7C21F6AC3900D344EB /* WLTabBarItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WLTabBarItem.m; sourceTree = "<group>"; };
 		9BEB6B7D21F6AC3900D344EB /* WLTabBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLTabBar.h; sourceTree = "<group>"; };
 		9BEB6B7E21F6AC3900D344EB /* WLTabBarItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WLTabBarItem.h; sourceTree = "<group>"; };
-		9BEB6B8321F6AF3A00D344EB /* WLTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WLTabBar.h; sourceTree = "<group>"; };
+		9BEB6B8421F6C49800D344EB /* WLTabBarHead.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WLTabBarHead.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,7 @@
 			children = (
 				9BEB6B7721F6AC3900D344EB /* Model */,
 				9BEB6B7A21F6AC3900D344EB /* View */,
-				9BEB6B8321F6AF3A00D344EB /* WLTabBar.h */,
+				9BEB6B8421F6C49800D344EB /* WLTabBarHead.h */,
 			);
 			path = WLTabBar;
 			sourceTree = "<group>";
